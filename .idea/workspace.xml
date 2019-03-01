@@ -25,30 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-              <folding>
-                <element signature="e#896#897#0" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1460#1461#0" expanded="true" />
-                <element signature="e#1512#1513#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="279">
+              <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloWorldTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/HelloWorldTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+            <state relative-caret-position="309">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -383,10 +374,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/main/java/LanguageNotFoundException.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/HelloWorldTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HelloWorld.java" />
       </list>
     </option>
   </component>
@@ -666,16 +657,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding>
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1460#1461#0" expanded="true" />
-            <element signature="e#1512#1513#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -740,30 +722,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/HelloWorldTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state relative-caret-position="309">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1460#1461#0" expanded="true" />
-            <element signature="e#1512#1513#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HelloWorldTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="279">
+          <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
