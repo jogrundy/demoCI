@@ -63,7 +63,7 @@ public class HelloWorld {
         String result;
         result = "";
         for(int i=0;i<repeats;i++) {
-            result = result + hello + "/n";
+            result = result + hello + "\n";
         }
         return result;
     }
