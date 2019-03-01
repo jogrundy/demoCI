@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoCI.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoCI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoCI_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoCI_main.iml" group="DemoCI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoCI_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoCI_test.iml" group="DemoCI" />
+    </modules>
+  </component>
+</project>
