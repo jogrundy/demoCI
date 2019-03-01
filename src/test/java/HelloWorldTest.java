@@ -59,9 +59,9 @@ public class HelloWorldTest {
     @Test
     public void testSayHello() {
         HelloWorld test1 = new HelloWorld();
-        assertThat(test1.sayHello(), is("Hello World/n"));
+        assertThat(test1.sayHello(), is("Hello World\n"));
         HelloWorld test2 = new HelloWorld();
         test2.setRepeats(2);
-        assertThat(test2.sayHello(), is("Hello World/nHello World/n"));
+        assertThat(test2.sayHello(), is("Hello World\nHello World\n"));
     }
 }
